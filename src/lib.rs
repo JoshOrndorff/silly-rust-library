@@ -1,6 +1,6 @@
 
 pub struct Number {
-    value: u64,
+    pub value: u64,
 }
 
 impl Number {
